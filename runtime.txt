@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 python-3.6.12
+=======
+python-3.6.12
+>>>>>>> 66df0c6cd4ce30b776e1e8fa50780fc7e3d2187c
